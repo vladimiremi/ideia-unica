@@ -2,7 +2,7 @@ import { useState } from 'react';
 
 function Home(){
     return <div>
-            <div>Eu amo você Lua!</div>
+            <div>BOM DIA IRMÃ!</div>
             <Contador />
         </div>
 }
